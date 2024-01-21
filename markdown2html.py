@@ -7,6 +7,7 @@ import sys
 import os
 import re
 
+
 def convert_markdown_to_html(input_file, output_file):
     """
     Converts Markdown file to HTML and writes the output to a file.
